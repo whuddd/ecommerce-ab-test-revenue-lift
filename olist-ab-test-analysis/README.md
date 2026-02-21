@@ -37,7 +37,7 @@ Dashboard workbook is included at `dashboard/ab_test_revenue_dashboard.twbx`.
 
 Screenshot placeholder:
 ```markdown
-![Tableau Dashboard](olist-ab-test-analysis/docs/dashboard_preview.png)
+![Tableau Dashboard](docs/dashboard_preview.png)
 ```
 
 ## Tech Stack
