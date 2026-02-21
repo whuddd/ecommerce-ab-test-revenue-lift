@@ -1,0 +1,2 @@
+paid_conversion_a,paid_conversion_b,paid_conversion_diff,paid_conversion_diff_pp,paid_conversion_lift_pct,z_score,p_value,revenue_per_order_a,revenue_per_order_b,revenue_per_order_diff,revenue_per_order_lift_pct,revenue_diff_ci_low,revenue_diff_ci_high
+0.9499175680566166,0.9732410518479769,0.02332348379136029,2.332348379136029,2.4553166059531284,19.131487318909954,0.0,151.4670183762918,155.9986360964127,4.531617720120892,2.9918181322239557,1.6935134655736697,7.365322445693526

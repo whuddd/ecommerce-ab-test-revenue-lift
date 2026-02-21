@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# macOS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Databases and raw/local data
+*.db
+*.sqlite
+*.sqlite3
+data/*
+!data/.gitkeep
+
+# Temporary files
+*.log
+.~*
