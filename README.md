@@ -33,13 +33,12 @@ This project measures conversion behavior, estimates monetization impact, and pr
 Variant **B** is the stronger candidate for rollout: it shows a statistically significant conversion gain and a positive revenue-per-order lift with a fully positive bootstrap confidence interval.
 
 ## Tableau Dashboard
-Dashboard workbook is included at `dashboard/ab_test_revenue_dashboard.twbx`.
+Dashboard workbook: `dashboard/ab_test_revenue_dashboard.twbx`
 
 ### Dashboard Preview
-![Tableau Executive Dashboard](docs/dashboard_preview.png)
+![Tableau Executive Dashboard](dashboard/ab_test_revenue_dashboard_preview.png)
 
-Fallback (raw URL):
-![Tableau Executive Dashboard (Raw)](https://raw.githubusercontent.com/whuddd/ecommerce-ab-test-revenue-lift/main/docs/dashboard_preview.png)
+Raw fallback link: [Open image](https://raw.githubusercontent.com/whuddd/ecommerce-ab-test-revenue-lift/main/dashboard/ab_test_revenue_dashboard_preview.png)
 
 ## Tech Stack
 - SQL (SQLite)
@@ -78,7 +77,8 @@ ecommerce-ab-test-revenue-lift/
 │   └── analysis.py
 ├── outputs/
 ├── dashboard/
-│   └── ab_test_revenue_dashboard.twbx
+│   ├── ab_test_revenue_dashboard.twbx
+│   └── ab_test_revenue_dashboard_preview.png
 └── docs/
     └── executive_summary.md
 ```
