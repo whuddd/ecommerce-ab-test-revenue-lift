@@ -35,10 +35,11 @@ Variant **B** is the stronger candidate for rollout: it shows a statistically si
 ## Tableau Dashboard
 Dashboard workbook is included at `dashboard/ab_test_revenue_dashboard.twbx`.
 
-Screenshot placeholder:
-```markdown
-![Tableau Dashboard](docs/dashboard_preview.png)
-```
+### Dashboard Preview
+![Tableau Executive Dashboard](docs/dashboard_preview.png)
+
+Fallback (raw URL):
+![Tableau Executive Dashboard (Raw)](https://raw.githubusercontent.com/whuddd/ecommerce-ab-test-revenue-lift/main/docs/dashboard_preview.png)
 
 ## Tech Stack
 - SQL (SQLite)
@@ -66,7 +67,7 @@ Screenshot placeholder:
 
 ## Repository Structure
 ```text
-olist-ab-test-analysis/
+ecommerce-ab-test-revenue-lift/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
